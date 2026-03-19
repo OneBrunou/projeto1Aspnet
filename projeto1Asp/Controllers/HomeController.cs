@@ -18,7 +18,17 @@ namespace projeto1Asp.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Sobre()
+        {
+            return View();
+        }
+
+        public IActionResult Contato()
+        {
+            return View();
+        }
+   
+        public IActionResult Portifolio()
         {
             return View();
         }
